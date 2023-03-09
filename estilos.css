@@ -1,0 +1,55 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    padding-top: 10px;
+    padding-left: 300px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.jpm{
+    object-position: center;
+}
+
+.idiomas {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #0a140b
+}
+
+.p2{
+    color: grey;
+    margin-left: 550px;
+    padding-left: 550px;
+}
